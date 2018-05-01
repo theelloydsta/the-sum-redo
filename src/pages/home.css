@@ -11,16 +11,20 @@
   float: left;
 }
 
-#mainLeft .text {
+#mainLeft .text
+{
   margin-top: 20px;
   float: none;
   margin-bottom: 60px;
 }
 
-#mainRight {
+#mainRight
+{
   margin-left: 293px;
 }
-.home #mainRight {
+
+.home #mainRight
+{
   padding-left: 40px;
 }
 
